@@ -1,56 +1,63 @@
-# 👨‍💻 Senior Software Engineer | MERN Stack & Unity 3D Expert
+# 👨‍💻 **Senior Software Engineer** | **MERN Stack & Unity 3D Expert**
 
-Welcome to my GitHub profile! I am a passionate software engineer with expertise in **MERN** stack and **Unity 3D**, dedicated to creating impactful software solutions. 🚀
-
----
-
-## 🎨 Menu
-
-<a href="#about" style="color: white; padding: 10px 20px; text-decoration: none; background-color: #1e2a47; border-radius: 5px; margin-right: 10px;">About</a>
-<a href="#portfolio" style="color: white; padding: 10px 20px; text-decoration: none; background-color: #1e2a47; border-radius: 5px; margin-right: 10px;">Portfolio</a>
-<a href="#certificates" style="color: white; padding: 10px 20px; text-decoration: none; background-color: #1e2a47; border-radius: 5px; margin-right: 10px;">Certificates</a>
-<a href="#contact" style="color: white; padding: 10px 20px; text-decoration: none; background-color: #1e2a47; border-radius: 5px;">Contact</a>
+Welcome to my GitHub profile! 🚀 Feel free to explore my work below and get in touch with me!
 
 ---
 
-## 🧑‍💻 About
+<!-- Menu Section -->
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px;">
+  <a href="#about" style="text-decoration: none; background-color: #1e2a47; color: white; padding: 15px 30px; border-radius: 5px; font-size: 18px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: 0.3s;">
+    About Me
+  </a>
+  <a href="#portfolio" style="text-decoration: none; background-color: #1e2a47; color: white; padding: 15px 30px; border-radius: 5px; font-size: 18px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: 0.3s;">
+    Portfolio
+  </a>
+  <a href="#certificates" style="text-decoration: none; background-color: #1e2a47; color: white; padding: 15px 30px; border-radius: 5px; font-size: 18px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: 0.3s;">
+    Certifications
+  </a>
+  <a href="#contact" style="text-decoration: none; background-color: #1e2a47; color: white; padding: 15px 30px; border-radius: 5px; font-size: 18px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: 0.3s;">
+    Contact
+  </a>
+</div>
 
-Hello! I'm a **Senior Software Engineer** with a strong foundation in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and extensive experience in **Unity 3D** for creating interactive, immersive experiences. I thrive on solving complex problems and building scalable, efficient applications.
+---
 
-- 💡 **Skills**:
+## 🧑‍💻 **About Me**
+
+Hello! I'm a **Senior Software Engineer** with expertise in **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and **Unity 3D** for immersive, real-time applications and games.
+
+- 🔧 **Tech Skills**:
   - **MERN Stack**: MongoDB, Express, React, Node.js
-  - **Unity 3D**: Game Development, AR/VR, C# scripting
-  - **Other**: REST APIs, GraphQL, Docker, Git, Firebase, AWS
-- 🎮 Passionate about blending technology with creativity to build interactive digital experiences
-- 🌍 Always exploring new technologies and trends in software development
+  - **Unity 3D**: C# Scripting, Game Development, AR/VR
+  - **Cloud**: AWS, Firebase
+  - **Version Control**: Git, GitHub
 
 ---
 
-## 🎯 Portfolio
+## 🎯 **Portfolio**
 
-Check out some of the work I've done:
+Here’s some of my work that I’m proud of:
 
-- **[Project 1 - MERN App](https://github.com/username/project1)**: Full-stack MERN application for e-commerce.
-- **[Project 2 - Unity 3D Game](https://github.com/username/project2)**: A 3D adventure game built with Unity.
-- **[Project 3 - API Service](https://github.com/username/project3)**: REST API service for a social media platform.
-- **[Project 4 - Augmented Reality App](https://github.com/username/project4)**: AR experience built in Unity 3D.
+- **[E-commerce MERN App](https://github.com/username/project1)**: A full-stack MERN application for e-commerce solutions.
+- **[Unity 3D Game](https://github.com/username/project2)**: A 3D adventure game built in Unity for immersive experiences.
+- **[Social Media API](https://github.com/username/project3)**: A scalable API service used in a social media app.
+- **[Augmented Reality App](https://github.com/username/project4)**: An AR app created with Unity.
 
 ---
 
-## 🏅 Certifications
+## 🏅 **Certifications**
 
-Here are a few of my certifications:
+Check out some of my certifications that back up my skills:
 
 - **[Certified Unity Developer](https://www.certification-link.com)** - Unity Technologies
-- **[Full Stack Web Development](https://www.certification-link.com)** - Coursera (MongoDB, Express, React, Node.js)
-- **[Game Development with Unity 3D](https://www.certification-link.com)** - Udemy
+- **[Full Stack Web Development](https://www.certification-link.com)** - Coursera
 - **[AWS Certified Developer](https://www.certification-link.com)** - Amazon Web Services
 
 ---
 
-## 📬 Contact
+## 📬 **Contact Me**
 
-Feel free to reach out to me through the following channels:
+I'd love to hear from you! Reach out via:
 
 - 📧 **Email**: [youremail@example.com](mailto:youremail@example.com)
 - 💼 **LinkedIn**: [linkedin.com/in/username](https://www.linkedin.com/in/username)
@@ -59,11 +66,65 @@ Feel free to reach out to me through the following channels:
 
 ---
 
-## 🔗 Social Links
+## 🎨 **Social Links**
 
-Connect with me on:
+Let’s connect and grow together:
 
-- [GitHub](https://github.com/username)
-- [LinkedIn](https://www.linkedin.com/in/username)
-- [Twitter](https://twitter.com/username)
-- [Portfolio Website](https://www.yourwebsite.com)
+- **[GitHub](https://github.com/username)**
+- **[LinkedIn](https://linkedin.com/in/username)**
+- **[Twitter](https://twitter.com/username)**
+- **[Portfolio Website](https://www.yourwebsite.com)**
+
+---
+
+## 📊 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+### ⚡ **Fun Facts**
+
+- I'm an **avid gamer** and enjoy creating **AR/VR** experiences.
+- I love diving deep into **AI** and **machine learning**.
+- I frequently experiment with **new frameworks** and **web development technologies** in my free time.
+
+---
+
+> **“Code is like humor. When you have to explain it, it’s bad.” — Cory House**
+
+---
+
+<!-- CSS for better button and layout appearance -->
+<style>
+  a:hover {
+    background-color: #0f1d2a; /* Darker blue on hover */
+    transform: scale(1.05); /* Slight scale effect for buttons */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+  }
+  h1, h2, h3 {
+    color: #1e2a47; /* Blue headers */
+  }
+  p, li {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  .section-title {
+    color: #1e2a47;
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  .section-content {
+    padding: 15px;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+  }
+  .portfolio-link {
+    color: #1e2a47;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  .portfolio-link:hover {
+    text-decoration: underline;
+  }
+</style>
