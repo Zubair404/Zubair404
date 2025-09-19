@@ -74,55 +74,55 @@ I’m a **Senior Software Engineer** with more than **5 years of experience** sp
 
 ### 🛒 Super Mart Frenzy  
 <img src="assets/portfolio_images/supermart_frenzy.jpg" width="300"/>  
-_An arcade idle supermarket management game where players grow a small mart into a bustling supermarket empire. You manage inventory, upgrade racks, and optimize store layouts to maximize profits and efficiency._  
+An arcade idle supermarket management game where players grow a small mart into a bustling supermarket empire. You manage inventory, upgrade racks, and optimize store layouts to maximize profits and efficiency.  
 
 ---
 
 ### 🎲 Titli Sorat  
 <img src="assets/portfolio_images/titli_sorat.jpg" width="300"/>  
-_A 2D casino-style game featuring multiple betting mini-games. Built with a custom Node.js multiplayer server and Unity frontend, it delivers smooth, real-time interactive gameplay._  
+A 2D casino-style game featuring multiple betting mini-games. Built with a custom Node.js multiplayer server and Unity frontend, it delivers smooth, real-time interactive gameplay.  
 
 ---
 
 ### 🥷 Meme Ninja  
 <img src="assets/portfolio_images/meme_ninja.jpg" width="300"/>  
-_A 3D mini-game collection with a generative AI twist. Players interact with AI-generated models created from text-to-3D and image-to-3D generation, blending cutting-edge AI with engaging gameplay._  
+A 3D mini-game collection with a generative AI twist. Players interact with AI-generated models created from text-to-3D and image-to-3D generation, blending cutting-edge AI with engaging gameplay.  
 
 ---
 
 ### 🧩 Fitness Match  
 <img src="assets/portfolio_images/fitness_match.jpg" width="300"/>  
-_A colorful casual puzzle game where players tap on same-colored cubes, trigger explosive boosters, and progress through increasingly challenging levels._  
+A colorful casual puzzle game where players tap on same-colored cubes, trigger explosive boosters, and progress through increasingly challenging levels.  
 
 ---
 
 ### 💈 Barber Simulator  
 <img src="assets/portfolio_images/barber_simulator.jpg" width="300"/>  
-_A fun and toonish 3D simulation game where players take on haircut and beard styling requests. Precision tools, time challenges, and progressive difficulty create engaging barber shop gameplay._  
+A fun and toonish 3D simulation game where players take on haircut and beard styling requests. Precision tools, time challenges, and progressive difficulty create engaging barber shop gameplay.  
 
 ---
 
 ### 🚗 Dare Drive  
 <img src="assets/portfolio_images/dare_drive.jpg" width="300"/>  
-_An endless toon-style arcade racing game where players dodge highway traffic, upgrade their cars, and race through dynamic environments across different modes to reach the top._  
+An endless toon-style arcade racing game where players dodge highway traffic, upgrade their cars, and race through dynamic environments across different modes to reach the top.  
 
 ---
 
 ### 🏥 Carefort  
 <img src="assets/portfolio_images/carefort.jpg" width="300"/>  
-_A 2D hospital simulation game where players step into the shoes of Dr. Alice. From diagnosing patients to performing surgeries and handling emergencies, players build and manage a thriving hospital._  
+A 2D hospital simulation game where players step into the shoes of Dr. Alice. From diagnosing patients to performing surgeries and handling emergencies, players build and manage a thriving hospital.  
 
 ---
 
 ### 🍳 Kitchen Merge  
 <img src="assets/portfolio_images/kitchen_merge.jpg" width="300"/>  
-_A cozy 2D merge and decor puzzle game where players combine matching items to craft kitchen goodies, decorate their café, and advance through offline merge challenges._  
+A cozy 2D merge and decor puzzle game where players combine matching items to craft kitchen goodies, decorate their café, and advance through offline merge challenges.  
 
 ---
 
 ### 👑 Match 3 Royale  
 <img src="assets/portfolio_images/match3_royale.jpg" width="300"/>  
-_A fast-paced 3D puzzle game where players find and match three identical objects against the clock. Boosters and strategies help clear targets while difficulty ramps up with each level._  
+A fast-paced 3D puzzle game where players find and match three identical objects against the clock. Boosters and strategies help clear targets while difficulty ramps up with each level. 
 
 ---
 
