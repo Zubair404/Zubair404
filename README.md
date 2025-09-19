@@ -47,7 +47,7 @@ I’m a **Senior Software Engineer** with more than **5 years of experience** sp
 ## 🏆 Certifications  
 
 ### C# – by SoloLearn  
-<img src="assets/certificates/c#.jpg" alt="C# Certificate" width="400"/>  
+<img src="assets/certificates/csharp.jpg" alt="C# Certificate" width="400"/>  
 <!--
 ### Unity 3D – by Code Craft Trainings  
 <img src="assets/certificates/unity.png" alt="Unity Certificate" width="400"/>  
