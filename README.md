@@ -1,79 +1,94 @@
-# 👨‍💻 **Senior Software Engineer** | **MERN Stack & Unity 3D Expert**
+<!-- BANNER IMAGE -->
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" />
+</p>
 
-![Animated Banner](https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif)
-
-Hey there! Nice to see you 👓
-
-Welcome to my profile! I'm a Fullstack Developer, passionate about **MERN Stack** and **Unity 3D**. Let's build something great together! 🚀
-
----
-
-<!-- Menu Section -->
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px;">
-  <a href="#about" style="text-decoration: none; background-color: #ff7f50; color: white; padding: 15px 30px; border-radius: 10px; font-size: 18px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: 0.3s;">
-    About Me
-  </a>
-  <a href="#portfolio" style="text-decoration: none; background-color: #4caf50; color: white; padding: 15px 30px; border-radius: 10px; font-size: 18px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: 0.3s;">
-    Portfolio
-  </a>
-  <a href="#certificates" style="text-decoration: none; background-color: #1e88e5; color: white; padding: 15px 30px; border-radius: 10px; font-size: 18px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: 0.3s;">
-    Certifications
-  </a>
-  <a href="#contact" style="text-decoration: none; background-color: #ff4081; color: white; padding: 15px 30px; border-radius: 10px; font-size: 18px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: 0.3s;">
-    Contact
-  </a>
-</div>
+<h1 align="center">👨‍💻 Senior Software Engineer</h1>
+<h3 align="center">Unity 3D | MERN Stack | Phaser Js | AR | VR | WordPress | Shopify</h3>
 
 ---
 
-## 🧑‍💻 **About Me**
+## 🖤💙 About Me  
 
-Hello! I'm a **Senior Software Engineer** with expertise in **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and **Unity 3D** for immersive, real-time applications and games.
+I’m a **Senior Software Engineer** with more than **5 years of experience** specializing in **C# and JavaScript development**.  
 
-- 🔧 **Tech Skills**:
-  - **MERN Stack**: MongoDB, Express, React, Node.js
-  - **Unity 3D**: C# Scripting, Game Development, AR/VR
-  - **Cloud**: AWS, Firebase
-  - **Version Control**: Git, GitHub
+💙 My expertise includes:  
+- 🎮 **Game Development**: Unity 3D, AR/VR, Phaser.js  
+- 🌐 **Full Stack Development**: Node.js, Express, MongoDB, PostgreSQL, REST APIs, MERN Stack  
+- 🛒 **CMS & E-commerce**: WordPress, Shopify  
 
----
-
-## 🎯 **Portfolio**
-
-Here’s some of my work that I’m proud of:
-
-- **[E-commerce MERN App](https://github.com/username/project1)**: A full-stack MERN application for e-commerce solutions.
-- **[Unity 3D Game](https://github.com/username/project2)**: A 3D adventure game built in Unity for immersive experiences.
-- **[Social Media API](https://github.com/username/project3)**: A scalable API service used in a social media app.
-- **[Augmented Reality App](https://github.com/username/project4)**: An AR app created with Unity.
+💡 Passionate about building **scalable apps and immersive games** that deliver exceptional user experiences.  
 
 ---
 
-## 🏅 **Certifications**
+## 🎮💙 Portfolio  
 
-Check out some of my certifications that back up my skills:
+Here are some of my featured projects (click images or titles for demo):  
 
-- **[Certified Unity Developer](https://www.certification-link.com)** - Unity Technologies
-- **[Full Stack Web Development](https://www.certification-link.com)** - Coursera
-- **[AWS Certified Developer](https://www.certification-link.com)** - Amazon Web Services
-
----
-
-## 📬 **Contact Me**
-
-Feel free to reach out via:
-
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [linkedin.com/in/username](https://www.linkedin.com/in/username)
+### 1. **SuperMart Saga**  
+[![Project Image](IMAGE_LINK)](DRIVE_LINK)  
+_A casual mobile game built with Unity 3D. Players manage a supermarket, serving customers and expanding the business with fun mechanics._  
 
 ---
 
-### 💻 **Let's Connect!**
-
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/username)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/username)
+### 2. **Robo Merge**  
+[![Project Image](IMAGE_LINK)](DRIVE_LINK)  
+_A merge-style strategy game developed in Unity, combining fun mechanics with optimized gameplay for mobile._  
 
 ---
 
-> **“Code is like humor. When you have to explain it, it’s bad.” — Cory House**
+### 3. **Tap Hop Adventure**  
+[![Project Image](IMAGE_LINK)](DRIVE_LINK)  
+_A rhythm-based casual game published on iOS App Store. Built in Unity with smooth animations and engaging gameplay._  
+
+---
+
+### 4. **Trading Card Game**  
+[![Project Image](IMAGE_LINK)](DRIVE_LINK)  
+_A multiplayer trading card game designed in Unity. Features deck building, PvP matches, and server-side logic._  
+
+---
+
+### 5. **Javelin Throw Challenge**  
+[![Project Image](IMAGE_LINK)](DRIVE_LINK)  
+_A hyper-casual sports game where players compete to throw the javelin the farthest distance. Integrated leaderboard system._  
+
+---
+
+### 6. **Merge Madness: Super Fight**  
+[![Project Image](IMAGE_LINK)](DRIVE_LINK)  
+_A PvP merge battle game created in Unity with Photon PUN 2 for multiplayer._  
+
+---
+
+### 7. **Arcade Idle Collection**  
+[![Project Image](IMAGE_LINK)](DRIVE_LINK)  
+_A collection of idle/arcade mini-games developed with Unity and Phaser.js._  
+
+---
+
+## 📜💙 Certifications  
+
+- [Unity Certified Programmer](DRIVE_LINK)  
+- [Full Stack Web Development (MERN)](DRIVE_LINK)  
+- [AR/VR Development](DRIVE_LINK)  
+- [Phaser.js Game Development](DRIVE_LINK)  
+- [WordPress Expert Certification](DRIVE_LINK)  
+- [Shopify Development Certification](DRIVE_LINK)  
+
+---
+
+## 📬💙 Contact Me  
+
+<p align="center">
+  <a href="YOUR_WEBSITE_LINK"><img src="https://img.shields.io/badge/🌐%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=blue"></a>
+  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+  <a href="tel:+92XXXXXXXXX"><img src="https://img.shields.io/badge/📱%20Phone-000000?style=for-the-badge&logo=phone&logoColor=blue"></a>
+  <a href="https://wa.me/92XXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/✉️%20Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
+  <a href="YOUR_CALENDLY_LINK"><img src="https://img.shields.io/badge/Calendly-000000?style=for-the-badge&logo=google-calendar&logoColor=4285F4"></a>
+</p>
+
+---
+
+<p align="center">✨ <b>“Let’s craft gaming marvels together!”</b> ✨</p>
