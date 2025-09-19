@@ -8,8 +8,17 @@
 
 ---
 
-## 🖤💙 About Me  
+<!-- COOL MENU BAR -->
+<p align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-000000?style=for-the-badge&logo=github&logoColor=blue"></a>
+  <a href="#-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=unity&logoColor=0A66C2"></a>
+  <a href="#-certifications"><img src="https://img.shields.io/badge/Certifications-000000?style=for-the-badge&logo=google-scholar&logoColor=blue"></a>
+  <a href="#-contact-me"><img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail&logoColor=blue"></a>
+</p>
 
+---
+
+## 🖤💙 About Me  
 I’m a **Senior Software Engineer** with more than **5 years of experience** specializing in **C# and JavaScript development**.  
 
 💙 My expertise includes:  
