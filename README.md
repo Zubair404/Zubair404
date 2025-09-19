@@ -8,16 +8,15 @@
 
 ---
 
-<!-- STICKY MENU BAR -->
-<div style="position:sticky; top:0; z-index:1000; background:#ffffff; padding:10px 0; border-bottom: 2px solid #eee;" id="menu">
-  <p align="center">
-    <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-000000?style=for-the-badge&logo=github&logoColor=blue"></a>
-    <a href="#-contact-me"><img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail&logoColor=blue"></a>
-    <a href="#-certifications"><img src="https://img.shields.io/badge/Certifications-000000?style=for-the-badge&logo=google-scholar&logoColor=blue"></a>
-    <a href="#-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=unity&logoColor=0A66C2"></a>
-  </p>
-</div>
+<!-- MENU BAR -->
+<p align="center" id="menu">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-000000?style=for-the-badge&logo=github&logoColor=blue"></a>
+  <a href="#-contact-me"><img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail&logoColor=blue"></a>
+  <a href="#-certifications"><img src="https://img.shields.io/badge/Certifications-000000?style=for-the-badge&logo=google-scholar&logoColor=blue"></a>
+  <a href="#-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=unity&logoColor=0A66C2"></a>
+</p>
 
+---
 
 ## 🖤💙 About Me  
 
@@ -143,7 +142,7 @@ A fast-paced 3D puzzle game where players find and match three identical objects
 
 ---
 
-📂 **See More Projects → [Portfolio Read More](https://drive.google.com/drive/folders/1g4GtXKvYJ1Ixjrn2TXf38okHin20zanF){:target="_blank"}**  
+📂 **See More Projects → [Portfolio Read More](https://drive.google.com/drive/folders/1g4GtXKvYJ1Ixjrn2TXf38okHin20zanF)**  
 
 <p align="center">
   <a href="#menu"><img src="https://img.shields.io/badge/⬆️%20Back%20to%20Menu-FF5733?style=for-the-badge&logo=github&logoColor=white"></a>
