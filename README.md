@@ -44,61 +44,71 @@ I’m a **Senior Software Engineer** with more than **5 years of experience** sp
 
 ---
 
-## 📜💙 Certifications  
+## 🏆 Certifications  
 
-<p align="center">
-  <img src="assets/certificates/cert1.png" alt="Certificate 1" width="200"/>
-  <img src="assets/certificates/cert2.png" alt="Certificate 2" width="200"/>
-  <img src="assets/certificates/cert3.png" alt="Certificate 3" width="200"/>
-</p>
-<p align="center">
-  <img src="assets/certificates/cert4.png" alt="Certificate 4" width="200"/>
-  <img src="assets/certificates/cert5.png" alt="Certificate 5" width="200"/>
-  <img src="assets/certificates/cert6.png" alt="Certificate 6" width="200"/>
-</p>
+### C# – by SoloLearn  
+![C# Certificate](assets/certificates/c#.jpg)  
+
+### Unity 3D – by Code Craft Trainings  
+![Unity Certificate](assets/certificates/unity.png)  
+
+### Python – by Kaggle  
+![Python Certificate](assets/certificates/python.png)  
+
+### Intro To Machine Learning – by Kaggle  
+![Intro To ML Certificate](assets/certificates/ml.png)  
+
+### HTML – by SoloLearn  
+![HTML Certificate](assets/certificates/html.jpg)
+
+### CSS – by SoloLearn  
+![CSS Certificate](assets/certificates/css.jpg)
+
+### PHP – by SoloLearn  
+![PHP Certificate](assets/certificates/php.jpg)
 
 ---
 
 ## 🎮💙 Portfolio  
 
 ### 🛒 Super Mart Frenzy  
-<img src="assets/portfolio_images/supermart_frenzy.jpg" width="600"/>  
+<img src="assets/portfolio_images/supermart_frenzy.jpg" width="300"/>  
 _An arcade idle supermarket management game where players grow a small mart into a bustling supermarket empire. You manage inventory, upgrade racks, and optimize store layouts to maximize profits and efficiency._  
 
 ---
 
 ### 🎲 Titli Sorat  
-<img src="assets/portfolio_images/titli_sorat.jpg" width="600"/>  
+<img src="assets/portfolio_images/titli_sorat.jpg" width="300"/>  
 _A 2D casino-style game featuring multiple betting mini-games. Built with a custom Node.js multiplayer server and Unity frontend, it delivers smooth, real-time interactive gameplay._  
 
 ---
 
 ### 🥷 Meme Ninja  
-<img src="assets/portfolio_images/meme_ninja.jpg" width="600"/>  
+<img src="assets/portfolio_images/meme_ninja.jpg" width="300"/>  
 _A 3D mini-game collection with a generative AI twist. Players interact with AI-generated models created from text-to-3D and image-to-3D generation, blending cutting-edge AI with engaging gameplay._  
 
 ---
 
 ### 🧩 Fitness Match  
-<img src="assets/portfolio_images/fitness_match.jpg" width="600"/>  
+<img src="assets/portfolio_images/fitness_match.jpg" width="300"/>  
 _A colorful casual puzzle game where players tap on same-colored cubes, trigger explosive boosters, and progress through increasingly challenging levels._  
 
 ---
 
 ### 💈 Barber Simulator  
-<img src="assets/portfolio_images/barber_simulator.jpg" width="600"/>  
+<img src="assets/portfolio_images/barber_simulator.jpg" width="300"/>  
 _A fun and toonish 3D simulation game where players take on haircut and beard styling requests. Precision tools, time challenges, and progressive difficulty create engaging barber shop gameplay._  
 
 ---
 
 ### 🚗 Dare Drive  
-<img src="assets/portfolio_images/dare_drive.jpg" width="600"/>  
+<img src="assets/portfolio_images/dare_drive.jpg" width="300"/>  
 _An endless toon-style arcade racing game where players dodge highway traffic, upgrade their cars, and race through dynamic environments across different modes to reach the top._  
 
 ---
 
 ### 🏥 Carefort  
-<img src="assets/portfolio_images/carefort.jpg" width="600"/>  
+<img src="assets/portfolio_images/carefort.jpg" width="300"/>  
 _A 2D hospital simulation game where players step into the shoes of Dr. Alice. From diagnosing patients to performing surgeries and handling emergencies, players build and manage a thriving hospital._  
 
 ---
