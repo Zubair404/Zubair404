@@ -40,10 +40,9 @@ I’m a **Senior Software Engineer** with more than **5 years of experience** sp
 <p align="center">
   <a href="https://zubaircodes.com/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=blue"></a>
   <a href="https://www.linkedin.com/in/rzubairhussain/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
-  <a href="tel:+923354632567"><img src="https://img.shields.io/badge/📱%20Phone-000000?style=for-the-badge&logo=phone&logoColor=blue"></a>
   <a href="https://wa.me/923354632567" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a>
   <a href="mailto:zubairhussain404@gmail.com"><img src="https://img.shields.io/badge/✉️%20Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
-  <a href="YOUR_CALENDLY_LINK" target="_blank"><img src="https://img.shields.io/badge/Calendly-000000?style=for-the-badge&logo=google-calendar&logoColor=4285F4"></a>
+  <a href="https://calendly.com/zubairhussain404/30min" target="_blank"><img src="https://img.shields.io/badge/Calendly-000000?style=for-the-badge&logo=google-calendar&logoColor=4285F4"></a>
 </p>
 
 <p align="center">
