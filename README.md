@@ -47,27 +47,28 @@ I’m a **Senior Software Engineer** with more than **5 years of experience** sp
 ## 🏆 Certifications  
 
 ### C# – by SoloLearn  
-![C# Certificate](assets/certificates/c#.jpg)  
+<img src="assets/certificates/c#.jpg" alt="C# Certificate" width="300"/>  
 
 ### Unity 3D – by Code Craft Trainings  
-![Unity Certificate](assets/certificates/unity.png)  
+<img src="assets/certificates/unity.png" alt="Unity Certificate" width="300"/>  
 
 ### Python – by Kaggle  
-![Python Certificate](assets/certificates/python.png)  
+<img src="assets/certificates/python.png" alt="Python Certificate" width="300"/>  
 
 ### Intro To Machine Learning – by Kaggle  
-![Intro To ML Certificate](assets/certificates/ml.png)  
+<img src="assets/certificates/ml.png" alt="Intro To ML Certificate" width="300"/>  
 
 ### HTML – by SoloLearn  
-![HTML Certificate](assets/certificates/html.jpg)
+<img src="assets/certificates/html.png" alt="HTML Certificate" width="300"/>  
 
 ### CSS – by SoloLearn  
-![CSS Certificate](assets/certificates/css.jpg)
+<img src="assets/certificates/css.png" alt="CSS Certificate" width="300"/>  
 
 ### PHP – by SoloLearn  
-![PHP Certificate](assets/certificates/php.jpg)
+<img src="assets/certificates/php.png" alt="PHP Certificate" width="300"/>  
 
 ---
+
 
 ## 🎮💙 Portfolio  
 
