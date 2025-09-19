@@ -115,13 +115,13 @@ _A 2D hospital simulation game where players step into the shoes of Dr. Alice. F
 ---
 
 ### 🍳 Kitchen Merge  
-<img src="assets/portfolio_images/kitchen_merge.jpg" width="600"/>  
+<img src="assets/portfolio_images/kitchen_merge.jpg" width="300"/>  
 _A cozy 2D merge and decor puzzle game where players combine matching items to craft kitchen goodies, decorate their café, and advance through offline merge challenges._  
 
 ---
 
 ### 👑 Match 3 Royale  
-<img src="assets/portfolio_images/match3_royale.jpg" width="600"/>  
+<img src="assets/portfolio_images/match3_royale.jpg" width="300"/>  
 _A fast-paced 3D puzzle game where players find and match three identical objects against the clock. Boosters and strategies help clear targets while difficulty ramps up with each level._  
 
 ---
