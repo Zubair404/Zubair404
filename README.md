@@ -14,15 +14,10 @@
 
 <div align="center" id="menu">
 
-[![About](https://img.shields.io/badge/▸%20About%20Me-0f172a?style=for-the-badge&logoColor=0ea5e9)](/#-about-me)
-[![Contact](https://img.shields.io/badge/▸%20Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335)](/#-contact-me)
-[![Certifications](https://img.shields.io/badge/▸%20Certifications-0f172a?style=for-the-badge&logo=google-scholar&logoColor=4285f4)](/#-certifications)
-
-**Portfolio →**
-[![Unity & Games](https://img.shields.io/badge/🎮%20Unity%20%26%20Games-1a1a2e?style=for-the-badge&logo=unity&logoColor=white)](/#-unity--game-portfolio)
-[![Full Stack](https://img.shields.io/badge/🌐%20Full%20Stack-1a1a2e?style=for-the-badge&logo=react&logoColor=61dafb)](/#-full-stack-portfolio)
-[![WordPress](https://img.shields.io/badge/🔷%20WordPress-1a1a2e?style=for-the-badge&logo=wordpress&logoColor=21759b)](/#-wordpress-portfolio)
-[![Shopify](https://img.shields.io/badge/🛍️%20Shopify-1a1a2e?style=for-the-badge&logo=shopify&logoColor=96bf48)](/#-shopify-portfolio)
+[![About](https://img.shields.io/badge/About%20Me-0f172a?style=for-the-badge&logoColor=0ea5e9)](/#-about-me)
+[![Contact](https://img.shields.io/badge/Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335)](/#-contact-me)
+[![Certifications](https://img.shields.io/badge/Certifications-0f172a?style=for-the-badge&logo=google-scholar&logoColor=4285f4)](/#-certifications)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=unity&logoColor=white)](/#-portfolio)
 
 </div>
 
@@ -164,7 +159,12 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 
 <details>
-<summary><h2>🎮 Unity &amp; Game Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
+<summary><h2>💼 Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
+
+<br/>
+
+<details>
+<summary><h3>🎮 Unity &amp; Game Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h3></summary>
 
 <br/>
 
@@ -231,50 +231,42 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 
 </div>
 
-<div align="right"><a href="#menu">⬆️ back to top</a></div>
-
 </details>
 
-
----
-
+<br/>
 
 <details>
-<summary><h2>🌐 Full Stack Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
+<summary><h3>🌐 Full Stack Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h3></summary>
 
 <br/>
 
 > 🚧 Projects coming soon — visit [zubaircodes.com](https://zubaircodes.com/) for live demos.
 
-<div align="right"><a href="#menu">⬆️ back to top</a></div>
-
 </details>
 
-
----
-
+<br/>
 
 <details>
-<summary><h2>🔷 WordPress Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
+<summary><h3>🔷 WordPress Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h3></summary>
 
 <br/>
 
 > 🚧 Projects coming soon — visit [zubaircodes.com](https://zubaircodes.com/) for live demos.
 
-<div align="right"><a href="#menu">⬆️ back to top</a></div>
-
 </details>
 
-
----
-
+<br/>
 
 <details>
-<summary><h2>🛍️ Shopify Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
+<summary><h3>🛍️ Shopify Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h3></summary>
 
 <br/>
 
 > 🚧 Projects coming soon — visit [zubaircodes.com](https://zubaircodes.com/) for live demos.
+
+</details>
+
+<br/>
 
 <div align="right"><a href="#menu">⬆️ back to top</a></div>
 
