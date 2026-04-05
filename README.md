@@ -1,10 +1,10 @@
 <!-- BANNER IMAGE -->
-<p align="center">
+<!-- <p align="center">
   <img src="assets/banner/banner.png" alt="Banner" />
-</p>
+</p> -->
 
-<h1 align="center">👨‍💻 Senior Software Engineer</h1>
-<h3 align="center">Unity 3D | MERN Stack | Phaser Js | AR | VR | WordPress | Shopify</h3>
+<h1 align="center">👨‍💻 Senior Full Stack Software Engineer</h1>
+<h3 align="center">Unity 3D | ASP Dot Net | React JS | WordPress | Shopify</h3>
 
 ---
 
@@ -24,7 +24,7 @@ I’m a **Senior Software Engineer** with more than **5 years of experience** sp
 
 💙 My expertise includes:  
 - 🎮 **Game Development**: Unity 3D, AR/VR, Phaser.js  
-- 🌐 **Full Stack Development**: Node.js, Express, MongoDB, PostgreSQL, REST APIs, MERN Stack  
+- 🌐 **Full Stack Development**: React js, Asp Dot Net, Sql Server, PostgreSQL, REST APIs  
 - 🛒 **CMS & E-commerce**: WordPress, Shopify  
 
 💡 Passionate about building **scalable apps and immersive games** that deliver exceptional user experiences.  
@@ -39,8 +39,8 @@ I’m a **Senior Software Engineer** with more than **5 years of experience** sp
 
 <p align="center">
   <a href="https://zubaircodes.com/" ><img src="https://img.shields.io/badge/🌐%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=blue"></a>
-  <a href="https://www.linkedin.com/in/rzubairhussain/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
-  <a href="https://wa.me/923354632567" ><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a>
+  <!-- <a href="https://www.linkedin.com/in/rzubairhussain/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a> -->
+  <!-- <a href="https://wa.me/923354632567" ><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a> -->
   <a href="mailto:zubairhussain404@gmail.com"><img src="https://img.shields.io/badge/✉️%20Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
   <a href="https://calendly.com/zubairhussain404/30min"><img src="https://img.shields.io/badge/Calendly-000000?style=for-the-badge&logo=google-calendar&logoColor=4285F4"></a>
 </p>
@@ -50,35 +50,44 @@ I’m a **Senior Software Engineer** with more than **5 years of experience** sp
 </p>
 
 ---
-
 ## 🏆 Certifications  
 
-### C# – by SoloLearn  
-<img src="assets/certificates/csharp.jpg" alt="C# Certificate" width="400"/>  
-<!--
-### Unity 3D – by Code Craft Trainings  
-<img src="assets/certificates/unity.png" alt="Unity Certificate" width="400"/>  
--->
+<table>
+  <tr>
+    <td align="center">
+      <b>C# – by SoloLearn</b><br>
+      <img src="assets/certificates/csharp.jpg" alt="C# Certificate" width="300"/>
+    </td>
+    <td align="center">
+      <b>Python – by Kaggle</b><br>
+      <img src="assets/certificates/python.png" alt="Python Certificate" width="300"/>
+    </td>
+  </tr>
 
-### Python – by Kaggle  
-<img src="assets/certificates/python.png" alt="Python Certificate" width="400"/>  
+  <tr>
+    <td align="center">
+      <b>Intro To Machine Learning – by Kaggle</b><br>
+      <img src="assets/certificates/ml.png" alt="Intro To ML Certificate" width="300"/>
+    </td>
+    <td align="center">
+      <b>HTML – by SoloLearn</b><br>
+      <img src="assets/certificates/html.png" alt="HTML Certificate" width="300"/>
+    </td>
+  </tr>
 
-### Intro To Machine Learning – by Kaggle  
-<img src="assets/certificates/ml.png" alt="Intro To ML Certificate" width="400"/>  
-
-### HTML – by SoloLearn  
-<img src="assets/certificates/html.png" alt="HTML Certificate" width="400"/>  
-
-### CSS – by SoloLearn  
-<img src="assets/certificates/css.png" alt="CSS Certificate" width="400"/>  
-
-<!--
-### PHP – by SoloLearn  
-<img src="assets/certificates/php.png" alt="PHP Certificate" width="400"/>  
--->
+  <tr>
+    <td align="center">
+      <b>CSS – by SoloLearn</b><br>
+      <img src="assets/certificates/css.png" alt="CSS Certificate" width="300"/>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="#menu"><img src="https://img.shields.io/badge/⬆️%20Back%20to%20Menu-FF5733?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#menu">
+    <img src="https://img.shields.io/badge/⬆️%20Back%20to%20Menu-FF5733?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
