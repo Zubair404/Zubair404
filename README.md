@@ -1,5 +1,3 @@
-#region HEADER
-
 <div align="center">
 
 # `< Zubair Hussain />`
@@ -10,11 +8,7 @@
 
 </div>
 
-#endregion
-
 ---
-
-#region NAVIGATION
 
 <div align="center" id="menu">
 
@@ -30,11 +24,7 @@
 
 </div>
 
-#endregion
-
 ---
-
-#region ABOUT ME
 
 ## 🧑‍💻 About Me
 
@@ -88,11 +78,8 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 <div align="right"><a href="#menu">⬆️ back to top</a></div>
 
-#endregion
 
 ---
-
-#region CONTACT
 
 <details>
 <summary><h2>📬 Contact Me &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
@@ -122,8 +109,6 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 #endregion
 
 ---
-
-#region CERTIFICATIONS
 
 <details>
 <summary><h2>🏆 Certifications &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
@@ -169,11 +154,7 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 </details>
 
-#endregion
-
 ---
-
-#region PORTFOLIO - UNITY & GAMES
 
 <details>
 <summary><h2>🎮 Unity &amp; Game Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
@@ -247,11 +228,8 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 
 </details>
 
-#endregion
-
 ---
 
-#region PORTFOLIO - FULL STACK
 
 <details>
 <summary><h2>🌐 Full Stack Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
@@ -264,11 +242,8 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 
 </details>
 
-#endregion
 
 ---
-
-#region PORTFOLIO - WORDPRESS
 
 <details>
 <summary><h2>🔷 WordPress Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
@@ -281,11 +256,7 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 
 </details>
 
-#endregion
-
 ---
-
-#region PORTFOLIO - SHOPIFY
 
 <details>
 <summary><h2>🛍️ Shopify Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
@@ -298,11 +269,7 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 
 </details>
 
-#endregion
-
 ---
-
-#region FOOTER
 
 <div align="center">
 
@@ -326,5 +293,3 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 [![Profile Views](https://komarev.com/ghpvc/?username=rzubairhussain&color=0ea5e9&style=flat-square&label=Profile+Views)](https://github.com/rzubairhussain)
 
 </div>
-
-#endregion
