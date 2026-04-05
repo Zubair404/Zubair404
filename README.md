@@ -3,15 +3,22 @@
 # `< Zubair Hussain />`
 
 ### Senior Full Stack & Game Developer
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Game+Developer+%7C+WordPress+%7C+Shopify+Developer;5%2B+years+of+Development+Experience)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Unity+3D+%7C+AR%2FVR+Game+Developer;ASP+.NET+%7C+React+JS+Full+Stack;WordPress+%7C+Shopify+Expert;5%2B+Years+of+Crafting+Digital+Experiences)](https://git.io/typing-svg)
+
 </div>
+
 
 ---
 
-<div align="center" id="menu">
-[![About](https://img.shields.io/badge/▸%20About%20Me-0f172a?style=for-the-badge&logoColor=0ea5e9)](/#-about-me) [![Contact](https://img.shields.io/badge/▸%20Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335)](/#-contact-me) [![Certifications](https://img.shields.io/badge/▸%20Certifications-0f172a?style=for-the-badge&logo=google-scholar&logoColor=4285f4)](/#-certifications)
-## 🚀 Portfolio
 
+<div align="center" id="menu">
+
+[![About](https://img.shields.io/badge/▸%20About%20Me-0f172a?style=for-the-badge&logoColor=0ea5e9)](/#-about-me)
+[![Contact](https://img.shields.io/badge/▸%20Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335)](/#-contact-me)
+[![Certifications](https://img.shields.io/badge/▸%20Certifications-0f172a?style=for-the-badge&logo=google-scholar&logoColor=4285f4)](/#-certifications)
+
+**Portfolio →**
 [![Unity & Games](https://img.shields.io/badge/🎮%20Unity%20%26%20Games-1a1a2e?style=for-the-badge&logo=unity&logoColor=white)](/#-unity--game-portfolio)
 [![Full Stack](https://img.shields.io/badge/🌐%20Full%20Stack-1a1a2e?style=for-the-badge&logo=react&logoColor=61dafb)](/#-full-stack-portfolio)
 [![WordPress](https://img.shields.io/badge/🔷%20WordPress-1a1a2e?style=for-the-badge&logo=wordpress&logoColor=21759b)](/#-wordpress-portfolio)
@@ -19,7 +26,9 @@
 
 </div>
 
+
 ---
+
 
 ## 🧑‍💻 About Me
 
@@ -68,13 +77,14 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 **Stats at a glance:**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rzubairhussain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzubairhussain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zubair404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubair404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9)
 
 <div align="right"><a href="#menu">⬆️ back to top</a></div>
 
 
 ---
+
 
 <details>
 <summary><h2>📬 Contact Me &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
@@ -101,9 +111,9 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 </details>
 
-#endregion
 
 ---
+
 
 <details>
 <summary><h2>🏆 Certifications &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
@@ -149,7 +159,9 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 </details>
 
+
 ---
+
 
 <details>
 <summary><h2>🎮 Unity &amp; Game Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
@@ -223,6 +235,7 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 
 </details>
 
+
 ---
 
 
@@ -240,6 +253,7 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 
 ---
 
+
 <details>
 <summary><h2>🔷 WordPress Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
 
@@ -251,7 +265,9 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 
 </details>
 
+
 ---
+
 
 <details>
 <summary><h2>🛍️ Shopify Portfolio &nbsp;<sup><i>(click to expand)</i></sup></h2></summary>
@@ -264,7 +280,9 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 
 </details>
 
+
 ---
+
 
 <div align="center">
 
@@ -285,6 +303,6 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 
 *✨ "Let's craft gaming marvels and digital experiences together!" ✨*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rzubairhussain&color=0ea5e9&style=flat-square&label=Profile+Views)](https://github.com/rzubairhussain)
+[![Profile Views](https://komarev.com/ghpvc/?username=zubair404&color=0ea5e9&style=flat-square&label=Profile+Views)](https://github.com/zubair404)
 
 </div>
