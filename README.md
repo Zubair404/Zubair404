@@ -9,10 +9,7 @@
 ---
 
 <div align="center" id="menu">
-[![About](https://img.shields.io/badge/About%20Me-0f172a?style=for-the-badge&logoColor=0ea5e9)](/#-about-me)
-[![Contact](https://img.shields.io/badge/Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335)](/#-contact-me)
-[![Certifications](https://img.shields.io/badge/Certifications-0f172a?style=for-the-badge&logo=google-scholar&logoColor=4285f4)](/#-certifications)
-
+[![About](https://img.shields.io/badge/▸%20About%20Me-0f172a?style=for-the-badge&logoColor=0ea5e9)](/#-about-me) [![Contact](https://img.shields.io/badge/▸%20Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335)](/#-contact-me) [![Certifications](https://img.shields.io/badge/▸%20Certifications-0f172a?style=for-the-badge&logo=google-scholar&logoColor=4285f4)](/#-certifications)
 ## 🚀 Portfolio
 
 [![Unity & Games](https://img.shields.io/badge/🎮%20Unity%20%26%20Games-1a1a2e?style=for-the-badge&logo=unity&logoColor=white)](/#-unity--game-portfolio)
