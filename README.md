@@ -4,7 +4,7 @@
 
 ### Senior Full Stack & Game Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Unity+3D+%7C+AR%2FVR+Game+Developer;ASP+.NET+%7C+React+JS+Full+Stack;WordPress+%7C+Shopify+Expert;5%2B+Years+of+Crafting+Digital+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Game+Developer+%7C+WordPress+%7C+Shopify+%7C+Agentic+AI;5%2B+Years+of+Crafting+Digital+Experiences)](https://git.io/typing-svg)
 
 </div>
 
