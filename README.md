@@ -14,10 +14,10 @@
 
 <div align="center" id="menu">
 
-[![About](https://img.shields.io/badge/About%20Me-0f172a?style=for-the-badge&logoColor=0ea5e9)](#-about-me)
-[![Contact](https://img.shields.io/badge/Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335)](#contact-me)
-[![Certifications](https://img.shields.io/badge/Certifications-0f172a?style=for-the-badge&logo=google-scholar&logoColor=4285f4)](#certifications)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=unity&logoColor=white)](#portfolio)
+[![About](https://img.shields.io/badge/About%20Me-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](#-about-me)
+[![Contact](https://img.shields.io/badge/Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](#contact-me)
+[![Certifications](https://img.shields.io/badge/Certifications-4285f4?style=for-the-badge&logo=google-scholar&logoColor=white)](#certifications)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=unity&logoColor=white)](#portfolio)
 
 </div>
 
@@ -72,10 +72,14 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 **Stats at a glance:**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zubair404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zubair404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zubair404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9)
 
-<div align="right"><a href="#menu">⬆️ back to top</a></div>
+<div align="right">
+
+[![Back to Top](https://img.shields.io/badge/⬆️%20Back%20to%20Top-0f172a?style=for-the-badge&logoColor=white)](#menu)
+
+</div>
 
 
 ---
@@ -103,7 +107,11 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 </div>
 
-<div align="right"><a href="#menu">⬆️ back to top</a></div>
+<div align="right">
+
+[![Back to Top](https://img.shields.io/badge/⬆️%20Back%20to%20Top-0f172a?style=for-the-badge&logoColor=white)](#menu)
+
+</div>
 
 </details>
 
@@ -152,7 +160,11 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 </div>
 
-<div align="right"><a href="#menu">⬆️ back to top</a></div>
+<div align="right">
+
+[![Back to Top](https://img.shields.io/badge/⬆️%20Back%20to%20Top-0f172a?style=for-the-badge&logoColor=white)](#menu)
+
+</div>
 
 </details>
 
@@ -271,7 +283,11 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 
 <br/>
 
-<div align="right"><a href="#menu">⬆️ back to top</a></div>
+<div align="right">
+
+[![Back to Top](https://img.shields.io/badge/⬆️%20Back%20to%20Top-0f172a?style=for-the-badge&logoColor=white)](#menu)
+
+</div>
 
 </details>
 
@@ -297,7 +313,5 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 <br/>
 
 *✨ "Let's craft gaming marvels and digital experiences together!" ✨*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=zubair404&color=0ea5e9&style=flat-square&label=Profile+Views)](https://github.com/zubair404)
 
 </div>
