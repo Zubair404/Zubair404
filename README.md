@@ -70,18 +70,11 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 </tr>
 </table>
 
-## 📊 Stats at a glance
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zubair404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9" height="180"/>
-
 <div align="right">
 
 [![Back to Top](https://img.shields.io/badge/⬆️%20Back%20to%20Top-0f172a?style=for-the-badge&logoColor=white)](#menu)
 
 </div>
-
 
 ---
 
