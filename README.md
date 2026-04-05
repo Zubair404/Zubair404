@@ -52,37 +52,19 @@ I’m a **Senior Software Engineer** with more than **5 years of experience** sp
 ---
 ## 🏆 Certifications  
 
-<table>
-  <tr>
-    <td align="center">
-      <b>C# – by SoloLearn</b><br>
-      <img src="assets/certificates/csharp.jpg" alt="C# Certificate" width="300"/>
-    </td>
-    <td align="center">
-      <b>Python – by Kaggle</b><br>
-      <img src="assets/certificates/python.png" alt="Python Certificate" width="300"/>
-    </td>
-  </tr>
+<p align="center">
+  <img src="assets/certificates/csharp.jpg" width="48%" />
+  <img src="assets/certificates/python.png" width="48%" />
+</p>
 
-  <tr>
-    <td align="center">
-      <b>Intro To Machine Learning – by Kaggle</b><br>
-      <img src="assets/certificates/ml.png" alt="Intro To ML Certificate" width="300"/>
-    </td>
-    <td align="center">
-      <b>HTML – by SoloLearn</b><br>
-      <img src="assets/certificates/html.png" alt="HTML Certificate" width="300"/>
-    </td>
-  </tr>
+<p align="center">
+  <img src="assets/certificates/ml.png" width="48%" />
+  <img src="assets/certificates/html.png" width="48%" />
+</p>
 
-  <tr>
-    <td align="center">
-      <b>CSS – by SoloLearn</b><br>
-      <img src="assets/certificates/css.png" alt="CSS Certificate" width="300"/>
-    </td>
-    <td></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/certificates/css.png" width="48%" />
+</p>
 
 <p align="center">
   <a href="#menu">
