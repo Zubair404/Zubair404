@@ -306,12 +306,12 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 </div>
 
 </details>
+
+---
 -->
 <!-- ========================================
      REGION: Portfolio Section - END
      ======================================== -->
-
----
 
 <div align="center">
 
