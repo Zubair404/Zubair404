@@ -329,7 +329,4 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 
 ⚫ Other ⚫ [![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)](#) [![OAuth](https://img.shields.io/badge/OAuth-3c3c3c?style=flat-square)](#) [![System Design](https://img.shields.io/badge/System_Design-1f1f1f?style=flat-square)](#)
 
-
-*✨ "Let's craft gaming marvels and digital experiences together!" ✨*
-
 </div>
