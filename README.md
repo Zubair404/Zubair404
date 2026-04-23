@@ -2,9 +2,9 @@
 
 # `< Zubair Hussain />`
 
-### Senior Full Stack & Game Developer
+### Full Stack Software Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Game+Developer+%7C+WordPress+%7C+Shopify;5%2B+Years+of+Crafting+Digital+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer+%7C+.NET+%7C+React+%7C+WordPress+%7C+Shopify;5%2B+Years+of+Crafting+Digital+Experiences)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,55 +27,51 @@
 
 ## 🧑‍💻 About Me
 
-> *"Building scalable apps and immersive games that deliver exceptional user experiences."*
+> *"Developing robust applications that combine performance, security, and great design."*
 
-I'm a **Senior Software Engineer** with **5+ years of experience** specializing in **C# and JavaScript development** — crafting everything from AAA-style mobile games to enterprise full-stack platforms.
+I'm a **Full Stack Software Engineer** specializing in **C# and JavaScript development**
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-**🎮 Game Development**
-- Unity 3D (Mobile, AR/VR)
-- Phaser.js (2D Browser Games)
-- C# · Game Architecture · Physics
-
-</td>
-<td width="50%">
-
-**🌐 Full Stack Development**
-- React JS · ASP.NET Core
-- SQL Server · PostgreSQL
-- REST APIs · Microservices
+**🌐 Full Stack Development**  
+- .NET Core · ASP.NET MVC · C#  
+- React JS · JavaScript · TypeScript  
+- REST APIs · Microservices  
+- SQL Server · PostgreSQL · Entity Framework  
+- Three.js · Phaser.js  
 
 </td>
-</tr>
-<tr>
-<td width="50%">
 
-**🛒 CMS & E-commerce**
-- WordPress · WooCommerce
-- Shopify · Liquid Templating
-- Custom Themes & Plugins
+<td width="33%" valign="top">
+
+**🧠 DevOps & Tools**  
+- Git · GitHub    
+- CI/CD Pipelines  
+- Azure · Docker Basics  
+- Agile · Jira  
 
 </td>
-<td width="50%">
 
-**🧠 Other Skills**
-- Python · Machine Learning Basics
-- CI/CD · Azure · Git
-- Agile · Clean Architecture
+<td width="33%" valign="top">
+
+**🛒 CMS & E-commerce**  
+- WordPress · WooCommerce  
+- Shopify   
+- Custom Themes & Plugins  
+- Elementor · SEO Basics  
+- Payment Gateway Integration  
 
 </td>
 </tr>
 </table>
-
 <div align="right">
 
 [![Back to Top](https://img.shields.io/badge/⬆️%20Back%20to%20Top-0f172a?style=for-the-badge&logoColor=white)](#menu)
 
 </div>
-
+        
 ---
 
 
@@ -89,13 +85,13 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 
 | Channel | Link |
 |--------|------|
-| 🌐 **Website** | [zubaircodes.com](https://zubaircodes.com/) |
+| 🌐 **Website** | [zubairhussain.netlify.app](https://zubairhussain.netlify.app/) |
 | ✉️ **Email** | [zubairhussain404@gmail.com](mailto:zubairhussain404@gmail.com) |
 | 📅 **Book a Call** | [Calendly — 30 min](https://calendly.com/zubairhussain404/30min) |
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐%20Visit%20My%20Website-0ea5e9?style=for-the-badge&logoColor=white)](https://zubaircodes.com/)
+[![Website](https://img.shields.io/badge/🌐%20Visit%20My%20Website-0ea5e9?style=for-the-badge&logoColor=white)](https://zubairhussain.netlify.app/)
 [![Email](https://img.shields.io/badge/✉️%20Send%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zubairhussain404@gmail.com)
 [![Book Call](https://img.shields.io/badge/📅%20Book%20a%20Call-4285f4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/zubairhussain404/30min)
 
@@ -124,34 +120,57 @@ I'm a **Senior Software Engineer** with **5+ years of experience** specializing 
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="assets/certificates/csharp.jpg" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
-  <b>C# Programming</b>
+  <img src="assets/certificates/Microsoft_1.png" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
+  <b>Microsoft Certification 1</b>
 </td>
 <td align="center" width="50%">
-  <img src="assets/certificates/python.png" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
-  <b>Python Development</b>
+  <img src="assets/certificates/Microsoft_2.png" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
+  <b>Microsoft Certification 2</b>
 </td>
 </tr>
+
 <tr>
 <td align="center" width="50%">
   <img src="assets/certificates/ml.png" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
   <b>Machine Learning</b>
 </td>
 <td align="center" width="50%">
-  <img src="assets/certificates/html.png" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
-  <b>HTML5 Fundamentals</b>
+  <img src="assets/certificates/python.png" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
+  <b>Python Development</b>
 </td>
 </tr>
+
+<tr>
+<td align="center" width="50%">
+  <img src="assets/certificates/csharp.jpg" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
+  <b>C# Programming</b>
+</td>
+<td align="center" width="50%">
+  <img src="assets/certificates/php.png" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
+  <b>PHP Development</b>
+</td>
+</tr>
+
 <tr>
 <td align="center" width="50%">
   <img src="assets/certificates/css.png" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
   <b>CSS3 & Styling</b>
 </td>
 <td align="center" width="50%">
+  <img src="assets/certificates/html.png" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
+  <b>HTML5 Fundamentals</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+  <img src="assets/certificates/unity.png" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
+  <b>Unity Game Development</b>
+</td>
+<td align="center" width="50%">
 </td>
 </tr>
 </table>
-
 </div>
 
 <div align="right">
