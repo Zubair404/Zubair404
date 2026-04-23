@@ -315,12 +315,6 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 
 <div align="center">
 
-**Tech Stack**
-<div align="center">
-
-## Tech Stack
-<div align="center">
-
 ## Tech Stack
 
 🔵 Backend 🔵 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#) [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](#) [![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#) [![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)](#)  
