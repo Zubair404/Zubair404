@@ -319,51 +319,21 @@ A **cozy 2D merge & décor puzzle game** — combine matching items, craft kitch
 <div align="center">
 
 ## Tech Stack
+<div align="center">
 
-🔵 Backend 🔵  
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](#)
-[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
-[![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)](#)
+## Tech Stack
 
-<br/>
+🔵 Backend 🔵 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#) [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](#) [![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#) [![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)](#)  
 
-🟣 Frontend / Interactive 🟣  
-[![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)](#)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square)](#)
-[![Phaser.js](https://img.shields.io/badge/Phaser.js-8cc84b?style=flat-square)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](#)
+🟣 Frontend / Interactive 🟣 [![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)](#) [![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square)](#) [![Phaser.js](https://img.shields.io/badge/Phaser.js-8cc84b?style=flat-square)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](#)  
 
-<br/>
+🟢 Databases 🟢 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](#) [![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)](#)  
 
-🟢 Databases 🟢  
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](#)
-[![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)](#)
+🟠 DevOps / Deployment 🟠 [![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)](#) [![Azure](https://img.shields.io/badge/Azure-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)](#) [![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-0a0a0a?style=flat-square)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)](#)  
 
-<br/>
+⚪ Tools / Practices ⚪ [![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)](#) [![Jira](https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jira&logoColor=white)](#) [![Agile](https://img.shields.io/badge/Agile-Scrum-6db33f?style=flat-square)](#) [![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111111?style=flat-square)](#)  
 
-🟠 DevOps / Deployment 🟠  
-[![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)](#)
-[![Azure](https://img.shields.io/badge/Azure-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)](#)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-0a0a0a?style=flat-square)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)](#)
-
-<br/>
-
-⚪ Tools & Practices ⚪  
-[![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)](#)
-[![Jira](https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jira&logoColor=white)](#)
-[![Agile](https://img.shields.io/badge/Agile-Scrum-6db33f?style=flat-square)](#)
-[![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111111?style=flat-square)](#)
-
-<br/>
-
-⚫ Security / Concepts ⚫  
-[![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)](#)
-[![OAuth](https://img.shields.io/badge/OAuth-3c3c3c?style=flat-square)](#)
-[![System Design](https://img.shields.io/badge/System_Design-1f1f1f?style=flat-square)](#)
+⚫ Other ⚫ [![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)](#) [![OAuth](https://img.shields.io/badge/OAuth-3c3c3c?style=flat-square)](#) [![System Design](https://img.shields.io/badge/System_Design-1f1f1f?style=flat-square)](#)
 
 
 *✨ "Let's craft gaming marvels and digital experiences together!" ✨*
