@@ -120,12 +120,12 @@ I'm a **Full Stack Software Engineer** specializing in **C# and JavaScript devel
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="assets/certificates/Microsoft_1.png" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
-  <b>Microsoft Certification 1</b>
+  <img src="assets/certificates/Microsoft_1.jpg" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
+  <b>Microsoft .Net Web API</b>
 </td>
 <td align="center" width="50%">
-  <img src="assets/certificates/Microsoft_2.png" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
-  <b>Microsoft Certification 2</b>
+  <img src="assets/certificates/Microsoft_2.jpg" width="400" height="400" style="object-fit:cover; border-radius:8px;" /><br/>
+  <b>Microsoft .Net Web UI</b>
 </td>
 </tr>
 
